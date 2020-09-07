@@ -1,0 +1,4 @@
+---
+title: Kittens
+---
+Yay kittens
