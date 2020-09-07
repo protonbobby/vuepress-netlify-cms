@@ -1,19 +1,15 @@
 module.exports = {
-  title: 'Netlify CMS + VuePress',
-  description: 'Netlify + VuePress',
+  title: "Netlify CMS + VuePress",
+  description: "Netlify + VuePress",
   themeConfig: {
-    docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
-    sidebar: [
-      '/',
-      '/welcome',
-      '/test'
-    ],
+    docsDir: "docs",
+    repo: "protonbobby/vuepress-netlify-cms",
+    sidebar: ["/", "/welcome", "/test"],
     nav: [
       {
-        text: 'Admin',
-        link: '/admin/#/',
-      }
-    ]
-  }
-}
+        text: "Admin",
+        link: "/admin/#/",
+      },
+    ],
+  },
+};
